@@ -22,7 +22,7 @@
 
 **Project objective:** 
 
-**1.** Create [Profit and Loss (P&L) reports](https://github.com/Amankha-n/Excel-sales-and-p-L-analytics-of-AtliQ-hardware/blob/eaa489b5ba289d76723ad4fbf8966d9c0f3b55c0/P%20%26%20L%20of%20AtliQ%20hardware.pdf) by Markets for AtliQ Hardwares.
+**1.** Create [Profit and Loss (P&L) reports](https://github.com/Amankha-n/Excel-sales-and-p-L-analytics-of-AtliQ-hardware/blob/eaa489b5ba289d76723ad4fbf8966d9c0f3b55c0/P%20%26%20L%20of%20AtliQ%20hardware.pdf) by markets  and Quarters in terms of sub-zones of AtliQ Hardwares.
 
 # Finance Analytics Purpose:
 
